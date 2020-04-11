@@ -1,0 +1,13 @@
+.table-wraper{
+    width:100%;
+}
+li.page-item {
+    display: inline-block;
+    /* margin-right: 7px; */
+    background: red;
+    padding: 10px;
+    box-shadow: 0 0 2px #000;
+}
+li.page-item.active{
+    background: #ccc;
+}
